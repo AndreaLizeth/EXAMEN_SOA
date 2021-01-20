@@ -1,0 +1,31 @@
+<?xml version="1.0"?>
+	<Factura>
+		<registro>
+			<codigoFact>1</codigoFact>
+			<rucEmp>1724358465001</rucEmp>
+			<cedula>1725698841</cedula>
+			<nombre>Juan</nombre>
+			<apellido>Lopez</apellido>
+			<fecha>2021-01-20</fecha>
+			<telefono>0998745210</telefono>
+			<direccion>La Carolina</direccion>
+			<cantidad>1</cantidad>
+			<detalle>Peluche</detalle>
+			<formPago>efectivo</formPago>
+			<total>30.50</total>
+		</registro>
+		<registro>
+			<codigoFact>2</codigoFact>
+			<rucEmp>1724358465001</rucEmp>
+			<cedula>1725645841</cedula>
+			<nombre>Martha</nombre>
+			<apellido>Rodriguez</apellido>
+			<fecha>2021-01-20</fecha>
+			<telefono>0998745458</telefono>
+			<direccion>La Carolina</direccion>
+			<cantidad>1</cantidad>
+			<detalle>Peluche</detalle>
+			<formPago>efectivo</formPago>
+			<total>50.39</total>
+		</registro>
+	</Factura>
